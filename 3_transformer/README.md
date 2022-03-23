@@ -1,3 +1,4 @@
+Download [model](https://drive.google.com/file/d/1TvF0ECexuH0dXVAd0No9ELk6fsOkBBdB/view?usp=sharing) and place it to *models/lecture/* directory.  
 Point command line to this folder.  
 To get unconditional samples run:  
 `python src/generate_unconditional_samples.py --model_name lecture`  
