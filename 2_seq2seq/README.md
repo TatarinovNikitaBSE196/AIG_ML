@@ -23,7 +23,7 @@ stack traceback:
 	...eary/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:150: in main chunk
 	[C]: at 0x563089f6c000
 ```
-However, there problems with downloading the package due to [GitHub restrictions](https://github.blog/2021-09-01-improving-git-protocol-security-github/):  
+However, there are problems with downloading the package due to [GitHub restrictions](https://github.blog/2021-09-01-improving-git-protocol-security-github/):  
 ```
 Installing https://raw.githubusercontent.com/torch/rocks/master/tds-scm-1.rockspec...
 Using https://raw.githubusercontent.com/torch/rocks/master/tds-scm-1.rockspec... switching to 'build' mode
