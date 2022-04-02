@@ -1,3 +1,4 @@
+Experiments with [algorithm](https://github.com/xinyadu/nqg) from [this article](http://dx.doi.org/10.18653/v1/P17-1123).  
 Failed to make experiments. To run the model, tds package is required:  
 ```/home/nickyoleary/torch/install/bin/luajit: ...e/nickyoleary/torch/install/share/lua/5.1/trepl/init.lua:389: ...e/nickyoleary/torch/install/share/lua/5.1/trepl/init.lua:389: ...e/nickyoleary/torch/install/share/lua/5.1/trepl/init.lua:389: ...e/nickyoleary/torch/install/share/lua/5.1/trepl/init.lua:389: module 'tds' not found:No LuaRocks module found for tds
 	no field package.preload['tds']
